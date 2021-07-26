@@ -672,5 +672,8 @@ FodyWeavers.xsd
 
 ### VisualStudio Patch ###
 # Additional files built by Visual Studio
+Terralistic
+Terralistic-Server
+Deps
 
 # End of https://www.toptal.com/developers/gitignore/api/vim,emacs,c,c++,ninja,macos,cmake,visualstudio,clion+all
